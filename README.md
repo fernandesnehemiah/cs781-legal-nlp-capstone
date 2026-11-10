@@ -923,9 +923,6 @@ The complete bibliography is provided in the project report. Key foundations inc
 - Lafferty et al. (2001), *Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data*.
 - Robertson and Zaragoza (2009), *The Probabilistic Relevance Framework: BM25 and Beyond*.
 
-For the full set of references, see:
-
-`report/CS781-CP-Nehemiah-Fernandes-261110040-report.pdf`
 
 ---
 
